@@ -1,0 +1,16 @@
+These images were created by icooon mono.
+
+icooon mono: http://icooon-mono.com
+
+
+add.png        rgb( 47, 201,  34)
+del.png        rgb(255,  10,  10)
+reset.png      rgb(201, 205,  38)
+setting.png    rgb( 58,  77, 210)
+save.png       rgb( 49, 122, 233)
+cancel.png     rgb(209,  36,  36)
+graph.png      rgb( 30, 143,  27)
+output.png     rgb( 30, 143,  27)
+icon.png       rgb(222,  23,  23)
+
+_start.png      rgb( 30, 143,  27)
